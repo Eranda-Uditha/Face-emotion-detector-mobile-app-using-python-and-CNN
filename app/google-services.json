@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581521214927",
+    "project_id": "login-register-emotionar",
+    "storage_bucket": "login-register-emotionar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581521214927:android:570bbad04dba53216756ba",
+        "android_client_info": {
+          "package_name": "com.example.emotionar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Fn3aCgXeG676EadF9dlfIkfpwPPhdhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
